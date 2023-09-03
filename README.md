@@ -1,2 +1,2 @@
-#This is the new realse of calculator
-We have added the new features
+# This is a calculator
+This is a simple calculator using HTML CSS and js
